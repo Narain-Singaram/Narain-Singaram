@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Narain-Singaram
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning lots of things
-- 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me @narain.awesome@gmail.com
+### How has your day been? 👋 
+### My name is Narain Singaram.
 
-<!---
-Narain-Singaram/Narain-Singaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here is my Github Profile! I'm a 15-year-old who is deeply passionate in programming and coding. I'm keen to collaborate with others on projects and for pure enjoyment!
+
+#### 📌  What I'm working on now is:
+- Creating Dynamic PHP Projects
+- Taking Online Courses About Various Programming Related Topics
+- Learning Python and Java for Future Purposes
