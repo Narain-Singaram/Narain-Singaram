@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Programming and trying to get better Mathematics.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence and Machine Learning.
-- ✍️ &nbsp; Create and Produce rap songs as hobbies/side hustles.
+- ✍️ &nbsp; Love playing cricket and hanging out with friends as hobbies.
 - ☕ &nbsp; I believe there is always room for improvement no matter how good you are.
 
 <br>
